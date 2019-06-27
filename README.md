@@ -6,6 +6,16 @@ I will keep updating the list and feel free to share any of your thoughts!
 
 | #  | Title  | Solutions  |
 |----|---|---|
+||[Find in Mountain Array][lc0010_t]|\[ [Binary Search][lc0010] \]|
+||[Car Pooling][lc0009_t]|\[ [Sweep-line Algorithm][lc0009] \]|
+||[Statistics from a Large Sample][lc0008_t]|\[ [Solution][lc0008] \]|
+||[Shortest Common Supersequence][lc0007_t]|\[ [DP + Backtracking][lc0007] \]|
+||[Shortest Path in Binary Matrix][lc0006_t]|\[ [BFS][lc0006] \]|
+||[Largest Values From Labels][lc0005_t]|\[ [Greedy][lc0005] \]|
+||[Duplicate Zeros][lc0004_t]|\[ [In-place Solution][lc0004] \]|
+||[Smallest Subsequence of Distinct Characters][lc0003_t]|\[ [Greedy + Stack][lc0003] \]|
+||[Letter Tile Possibilities][lc0002_t]|\[ [Solution][lc0002] \]|
+||[Occurrences After Bigram][lc0001_t]|\[ [Solution][lc0001] \]|
 |1074|[Number of Submatrices That Sum to Target][1074_t]|\[ [Solution][1074] \]|
 |1073|[Adding Two Negabinary Numbers][1073_t]|\[ [Solution][1073] \]|
 |1072|[Flip Columns For Maximum Number of Equal Rows][1072_t]|\[ [Bitmask][1072] \]|
@@ -2031,3 +2041,25 @@ I will keep updating the list and feel free to share any of your thoughts!
 [1065]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1065.java
 [1066_t]:    https://leetcode.com/problems/Campus-Bikes-II/
 [1066]:    https://github.com/lydxlx1/LeetCode/blob/master/src/_1066.java
+[lc0001_t]:    https://leetcode.com/problems/Occurrences-After-Bigram/
+[lc0001]:    https://github.com/lydxlx1/LeetCode/blob/master/src/OccurrencesAfterBigram.py
+[lc0002_t]:    https://leetcode.com/problems/Letter-Tile-Possibilities/
+[lc0002]:    https://github.com/lydxlx1/LeetCode/blob/master/src/LetterTilePossibilities.py
+[lc0003_t]:    https://leetcode.com/problems/Smallest-Subsequence-of-Distinct-Characters/
+[lc0003]:    https://github.com/lydxlx1/LeetCode/blob/master/src/SmallestSubsequenceofDistinctCharacters.py
+[lc0004_t]:    https://leetcode.com/problems/Duplicate-Zeros/
+[lc0004]:    https://github.com/lydxlx1/LeetCode/blob/master/src/DuplicateZeros.java
+[lc0005_t]:    https://leetcode.com/problems/Largest-Values-From-Labels/
+[lc0005]:    https://github.com/lydxlx1/LeetCode/blob/master/src/LargestValuesFromLabels.java
+[lc0006_t]:    https://leetcode.com/problems/Shortest-Path-In-Binary-Matrix/
+[lc0006]:    https://github.com/lydxlx1/LeetCode/blob/master/src/ShortestPathInBinaryMatrix.java
+[lc0007_t]:    https://leetcode.com/problems/Shortest-Common-Supersequence/
+[lc0007]:    https://github.com/lydxlx1/LeetCode/blob/master/src/ShortestCommonSupersequence.java
+[lc0008_t]:    https://leetcode.com/problems/Statistics-from-a-Large-Sample/
+[lc0008]:    https://github.com/lydxlx1/LeetCode/blob/master/src/StatisticsFromALargeSample.java
+[lc0009_t]:    https://leetcode.com/problems/Car-Pooling/
+[lc0009]:    https://github.com/lydxlx1/LeetCode/blob/master/src/CarPooling.java
+[lc0010_t]:    https://leetcode.com/problems/Find-in-Mountain-Array/
+[lc0010]:    https://github.com/lydxlx1/LeetCode/blob/master/src/FindInMountainArray.java
+[lc0011_t]:    https://leetcode.com/problems/Brace-Expansion-II/
+[lc0011]:    https://github.com/lydxlx1/LeetCode/blob/master/src/BraceExpansionII.java
